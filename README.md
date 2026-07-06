@@ -1,3 +1,3 @@
 ## Message Header
 
-This section was added in the feat-header branch to demonstrate isolated feature development using Git branching.
+This project implements a custom message header system for handling API requests and responses.
